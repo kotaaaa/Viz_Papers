@@ -50,6 +50,11 @@ and the 9th International Joint Conference on Natural Language Processing, pages
 Hong Kong, China, November 3–7, 2019
 [paper](https://www.aclweb.org/anthology/D19-1361.pdf)
 
+* **Open Sesame: Getting Inside BERT’s Linguistic Knowledge**
+*Yongjie Lina, and Yi Chern Tana, and Robert Frankb*
+Proceedings of the Second BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pages 241–253
+Florence, Italy, August 1, 2019.
+[paper](https://www.aclweb.org/anthology/W19-4825/)
 
 <h2 id="Grad-viz">Gradient visualization</h2>
 
