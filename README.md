@@ -12,21 +12,21 @@ If you are interested in Explainable/Interpretable and have any questions, **ple
 * [Grad-CAM(Image Recognition domain)](#Grad-CAM)
 * [BERT Visualization](#BERT-Viz)
 * [Gradient visualization](#Grad-viz)
-
+* [diagnostic classifiers](#diag-classifiers)
 
 <h2 id="Grad-CAM">Grad-CAM(Image Recognition domain)</h2>
 
 * **Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
 *Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra*
-Computer Vision and Pattern Recognition.
+International Journal of Computer Vision (IJCV) in 2019
 [paper](https://arxiv.org/abs/1610.02391)
 * **Representation Learning: A Review and New Perspectives**
 *Yoshua Bengio, Aaron Courville, Pascal Vincent*
-Machine Learning.
+Arxiv 2014.
 [paper](https://arxiv.org/abs/1206.5538)
 * **Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images**
 *Aravindh Mahendran, Andrea Vedaldi*
-Computer Vision and Pattern Recognition.
+Arxiv 2016.
 [paper](https://arxiv.org/abs/1512.02017)
 
 <h2 id="BERT-Viz">BERT Visualization</h2>
@@ -72,3 +72,14 @@ Proceedings of the 2019 Conference on Empirical Methods in Natural Language Proc
 *Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek*
 Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 159–168 Copenhagen, Denmark, September 7–11, 2017.
 [paper](https://www.aclweb.org/anthology/W17-5221/)
+
+<h2 id="diag-classifiers">diagnostic classifiers</h2>
+
+* **Visualisation and 'diagnostic classifiers' reveal how recurrent and recursive neural networks process hierarchical structure**
+*Dieuwke Hupkes, Sara Veldhoen, Willem Zuidema*
+Journal of Artificial Intelligence Research 61 (2018) 907-926
+[paper](https://arxiv.org/abs/1711.10203)
+* **FINE-GRAINED ANALYSIS OF SENTENCE EMBEDDINGS USING AUXILIARY PREDICTION TASKS**
+*Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg*
+Published as a conference paper at ICLR 2017
+[paper](https://arxiv.org/abs/1608.04207v3)
