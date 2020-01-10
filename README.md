@@ -34,21 +34,21 @@ Computer Vision and Pattern Recognition.
 * **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**
 *Matthew E. Peters, Sebastian Ruder, Noah A. Smith*
 Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019), pages 7–14 Florence, Italy, August 2, 2019.
-[paper](https://www.aclweb.org/anthology/W19-4302.pdf)
+[paper](https://www.aclweb.org/anthology/W19-4302/)
 * **A Multiscale Visualization of Attention in the Transformer Model**
 *Jesse Vig*
 Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pages 37–42 Florence, Italy, July 28 - August 2, 2019.
-[paper](https://www.aclweb.org/anthology/P19-3007.pdf)
+[paper](https://www.aclweb.org/anthology/P19-3007/)
 * **Visualizing and Understanding the Effectiveness of BERT**
 *Yaru Hao, Li Dong, Furu Wei, Ke Xu*
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4141–4150, Hong Kong, China, November 3–7, 2019.
-[paper](https://www.aclweb.org/anthology/D19-1424.pdf)
+[paper](https://www.aclweb.org/anthology/D19-1424/)
 * **Fine-tune BERT with Sparse Self-Attention Mechanism**
 *Baiyun Cui, Yingming Li, Ming Chen, and Zhongfei Zhang*
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing
 and the 9th International Joint Conference on Natural Language Processing, pages 3546–3551,
 Hong Kong, China, November 3–7, 2019
-[paper](https://www.aclweb.org/anthology/D19-1361.pdf)
+[paper](https://www.aclweb.org/anthology/D19-1361/)
 
 * **Open Sesame: Getting Inside BERT’s Linguistic Knowledge**
 *Yongjie Lina, and Yi Chern Tana, and Robert Frankb*
@@ -56,9 +56,15 @@ Proceedings of the Second BlackboxNLP Workshop on Analyzing and Interpreting Neu
 Florence, Italy, August 1, 2019.
 [paper](https://www.aclweb.org/anthology/W19-4825/)
 
+* **Saama Research at MEDIQA 2019: Pre-trained BioBERT with Attention Visualisation for Medical Natural Language Inference**
+*Kamal raj Kanakarajan, Suriyadeepan Ramamoorthy, Vaidheeswaran Archana, Soham Chatterjee, Malaikannan Sankarasubbu*
+Proceedings of the BioNLP 2019 workshop, pages 510–516 Florence, Italy, August 1, 2019. c 2019 Association for Computational Linguistics
+[paper](https://www.aclweb.org/anthology/W19-5055/)
+
+
 <h2 id="Grad-viz">Gradient visualization</h2>
 
 * **Explaining Recurrent Neural Network Predictions in Sentiment Analysis**
 *Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek*
 Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 159–168 Copenhagen, Denmark, September 7–11, 2017.
-[paper](https://www.aclweb.org/anthology/W17-5221.pdf)
+[paper](https://www.aclweb.org/anthology/W17-5221/)
