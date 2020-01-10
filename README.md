@@ -9,12 +9,12 @@ I hope this archive will be helpfull for your research or project.
 
 If you are interested in Explainable/Interpretable and have any questions, **please feel free to contact me!**
 
-* [Grad-CAM etc](#Grad-CAM)
+* [Grad-CAM(Image Recognition domain)](#Grad-CAM)
 * [BERT Visualization](#BERT-Viz)
 * [Gradient visualization](#Grad-viz)
 
 
-<h2 id="Grad-CAM">Grad-CAM etc</h2>
+<h2 id="Grad-CAM">Grad-CAM(Image Recognition domain)</h2>
 
 * **Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**
 *Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra*
