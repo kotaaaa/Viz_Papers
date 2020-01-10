@@ -61,6 +61,10 @@ Florence, Italy, August 1, 2019.
 Proceedings of the BioNLP 2019 workshop, pages 510–516 Florence, Italy, August 1, 2019. c 2019 Association for Computational Linguistics
 [paper](https://www.aclweb.org/anthology/W19-5055/)
 
+* **AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models**
+*Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian, Matt Gardner, Sameer Singh*
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP): System Demonstrations
+[paper](https://www.aclweb.org/anthology/D19-3002/)
 
 <h2 id="Grad-viz">Gradient visualization</h2>
 
