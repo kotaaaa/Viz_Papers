@@ -11,6 +11,7 @@ If you are interested in Explainable/Interpretable and have any questions, **ple
 
 * [Grad-CAM etc](#Grad-CAM)
 * [BERT Visualization](#BERT-Viz)
+* [Gradient visualization](#Grad-viz)
 
 <h2 id="Grad-CAM">Grad-CAM etc</h2>
 
@@ -45,5 +46,6 @@ Proceedings of the 2019 Conference on Empirical Methods in Natural Language Proc
 <h2 id="Grad-viz">Gradient visualization</h2>
 
 * **Explaining Recurrent Neural Network Predictions in Sentiment Analysis**
+*Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek*
 Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 159–168 Copenhagen, Denmark, September 7–11, 2017.
 [paper](https://www.aclweb.org/anthology/W17-5221.pdf)
