@@ -79,7 +79,7 @@ Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sen
 *Dieuwke Hupkes, Sara Veldhoen, Willem Zuidema*
 Journal of Artificial Intelligence Research 61 (2018) 907-926
 [paper](https://arxiv.org/abs/1711.10203)
-* **FINE-GRAINED ANALYSIS OF SENTENCE EMBEDDINGS USING AUXILIARY PREDICTION TASKS**
+* **Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks**
 *Yossi Adi, Einat Kermany, Yonatan Belinkov, Ofer Lavi, Yoav Goldberg*
 Published as a conference paper at ICLR 2017
 [paper](https://arxiv.org/abs/1608.04207v3)
