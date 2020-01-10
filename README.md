@@ -43,6 +43,13 @@ Proceedings of the 57th Annual Meeting of the Association for Computational Ling
 *Yaru Hao, Li Dong, Furu Wei, Ke Xu*
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4141–4150, Hong Kong, China, November 3–7, 2019.
 [paper](https://www.aclweb.org/anthology/D19-1424.pdf)
+* **Fine-tune BERT with Sparse Self-Attention Mechanism**
+*Baiyun Cui, Yingming Li, Ming Chen, and Zhongfei Zhang*
+Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing
+and the 9th International Joint Conference on Natural Language Processing, pages 3546–3551,
+Hong Kong, China, November 3–7, 2019
+[paper](https://www.aclweb.org/anthology/D19-1361.pdf)
+
 
 <h2 id="Grad-viz">Gradient visualization</h2>
 
