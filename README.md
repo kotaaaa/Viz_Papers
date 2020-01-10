@@ -28,6 +28,7 @@ Computer Vision and Pattern Recognition.
 [paper](https://arxiv.org/abs/1512.02017)
 
 <h2 id="BERT-Viz">BERT Visualization</h2>
+
 * **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**
 *Matthew E. Peters, Sebastian Ruder, Noah A. Smith*
 Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019), pages 7–14 Florence, Italy, August 2, 2019.
