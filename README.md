@@ -2,10 +2,10 @@
 
 ## Some good(maybe) papers about explainable/model visualization/ sensitive analysis
 
-Some papers I **have read** about NMT.
+Some papers I **have read** about the Explainable/Interpretable.
 
 Explainable/Interpretable is a very interesting topic for fairness, and understanding the model's behavior.
-I hope this archive will be helpfull for your research or project.
+I hope this archive will be helpful for your research or project.
 
 If you are interested in Explainable/Interpretable and have any questions, **please feel free to contact me!**
 
