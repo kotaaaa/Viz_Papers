@@ -41,3 +41,9 @@ Proceedings of the 57th Annual Meeting of the Association for Computational Ling
 *Yaru Hao, Li Dong, Furu Wei, Ke Xu*
 Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4141–4150, Hong Kong, China, November 3–7, 2019.
 [paper](https://www.aclweb.org/anthology/D19-1424.pdf)
+
+<h2 id="Grad-viz">Gradient visualization</h2>
+
+* **Explaining Recurrent Neural Network Predictions in Sentiment Analysis**
+Proceedings of the 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, pages 159–168 Copenhagen, Denmark, September 7–11, 2017.
+[paper](https://www.aclweb.org/anthology/W17-5221.pdf)
